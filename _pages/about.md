@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I received my B.S. degree from Lanzhou University in 2014 and my M.S. degree from Wuhan University in 2018. In 2024, I completed my Ph.D. in Computer Science at Wuhan University under the supervision of Prof. Dacheng Tao. Between 2021 and 2023, I worked as a research intern at JD.com. I also had the opportunity to be a visiting student in the group of Prof. Mile Gu at Nanyang Technological University and in the group of Prof. Patrick Rebentrost at the Centre for Quantum Technologies (CQT), Singapore.
 
 A data-driven personal website
 ======
